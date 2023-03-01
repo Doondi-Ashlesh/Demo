@@ -1,2 +1,2 @@
 # Demo
-All random/trial scripts
+Trial scripts
